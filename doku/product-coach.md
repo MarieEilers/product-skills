@@ -2,7 +2,7 @@
 
 **Ein Claude-Skill für permanentes Coaching. Gegenwind statt Schulterklopfen.**
 
-[← Alle Skills](../README.md) · [In deine KI bringen](../README.md#so-kommt-ein-skill-in-deine-ki) · [Kurzfassung für ChatGPT](product-coach-kurzfassung.md)
+[← Alle Skills](../README.md) · [In deine KI bringen](../README.md#so-kommt-ein-skill-in-deine-ki) · [Kurzfassung für ChatGPT](product-coach-kurzfassung.md) · [Warum es ihn gibt: der Blogbeitrag](https://marieeilers.github.io/sudo-make-it-simple/beitraege/product-coach/)
 
 ## Warum
 
