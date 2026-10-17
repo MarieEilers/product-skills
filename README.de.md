@@ -10,6 +10,13 @@ Product Owner sind oft allein in ihrer Funktion – und unter Druck von allen Ro
 
 **Ja-Sager hast du genug.** Die Skills hier nicken nicht ab: Gegenwind, wenn du danebenliegst, Rückenwind, wenn du recht hast – bis deine Entscheidung trägt.
 
+<p align="center">
+  <img src="assets/slider/de/slide-01.jpg" width="32%" alt="Du coachst alle. Wer coacht dich?">
+  <img src="assets/slider/de/slide-03.jpg" width="32%" alt="Der Product Coach bringt dich in drei Dingen weiter: klarer Kopf, Entwicklung, Standing.">
+  <img src="assets/slider/de/slide-07.jpg" width="32%" alt="Gegenwind, wenn du danebenliegst. Rückenwind, wenn du recht hast.">
+</p>
+<p align="center"><sub>Alle zehn Folien: <a href="https://marieeilers.github.io/sudo-make-it-simple/beitraege/product-coach/">im Blog</a> – teilen ausdrücklich erwünscht.</sub></p>
+
 ## Die Skills
 
 | Skill | Was er für dich tut | Holen |

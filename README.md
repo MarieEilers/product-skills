@@ -10,6 +10,13 @@ Product owners are often alone in their role – and under pressure from every r
 
 **You have enough yes-men.** These skills don't nod along: headwind when you're off, tailwind when you're right – until your decision holds up.
 
+<p align="center">
+  <img src="assets/slider/en/slide-01.jpg" width="32%" alt="You coach everyone. Who coaches you?">
+  <img src="assets/slider/en/slide-03.jpg" width="32%" alt="The Product Coach moves you forward in three ways: a clear head, growth, standing.">
+  <img src="assets/slider/en/slide-07.jpg" width="32%" alt="Headwind when you're off. Tailwind when you're right.">
+</p>
+<p align="center"><sub>All ten slides: <a href="https://marieeilers.github.io/sudo-make-it-simple/en/beitraege/product-coach/">on the blog</a> – feel free to share them.</sub></p>
+
 ## The skills
 
 | Skill | What it does for you | Get it |
