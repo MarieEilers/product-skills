@@ -5,7 +5,7 @@
     "url": "https://github.com/MarieEilers"
   },
   "metadata": {
-    "description": "Skills für Product Owner und Product Manager in Claude Code. Sparring statt fertiger Texte.",
+    "description": "KI-Skills für Product Owner, die widersprechen. Für Claude, Gemini und ChatGPT.",
     "version": "0.1.0"
   },
   "plugins": [
@@ -13,12 +13,28 @@
       "name": "product-coach",
       "source": "./plugins/product-coach",
       "strict": false,
-      "skills": ["./"],
-      "description": "Sokratischer Product Coach im Stil der Silicon Valley Product Group (Marty Cagan). Fragt, statt zu schreiben: schärft Product Judgment, Product Sense und Discovery-Disziplin. Vier Modi: Situation, Skill-Building, Critique, Context-Sharpening. Mit Vorlagen für strategischen Kontext, aktuelle Themen, Referenz-Frameworks und Coaching-Log. Sprache Deutsch.",
+      "skills": [
+        "./"
+      ],
+      "description": "Sokratischer Product Coach im Stil der Silicon Valley Product Group (Marty Cagan). Ehrliches, hartes Feedback statt Schulterklopfen: schärft Product Judgment, Product Sense und Discovery-Disziplin. Vier Modi: Situation, Skill-Building, Critique, Context-Sharpening. Mit Vorlagen für strategischen Kontext, aktuelle Themen, Referenz-Frameworks und Coaching-Log. Sprache Deutsch.",
       "version": "0.1.0",
-      "author": { "name": "Marie Christin Eilers" },
+      "author": {
+        "name": "Marie Christin Eilers"
+      },
       "license": "MIT",
-      "keywords": ["coaching", "product-coach", "product-owner", "product-manager", "svpg", "cagan", "discovery", "outcome-vs-output", "feature-factory", "socratic", "deutsch"]
+      "keywords": [
+        "coaching",
+        "product-coach",
+        "product-owner",
+        "product-manager",
+        "svpg",
+        "cagan",
+        "discovery",
+        "outcome-vs-output",
+        "feature-factory",
+        "socratic",
+        "deutsch"
+      ]
     }
   ]
 }

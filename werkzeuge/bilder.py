@@ -30,7 +30,7 @@ def schreibe(name, inhalt):
 # ------------------------------------------------------------------ Kopf
 def kopf():
     w, h = 1200, 430
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" role="img" aria-label="product-skills: Gegenwind für Product Owner. Ja-Sager hast du genug. Diese KI-Skills widersprechen.">
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" role="img" aria-label="product-skills: Deine KI nickt alles ab. Diese nicht. Skills für Product Owner, die widersprechen. Für Claude, Gemini und ChatGPT.">
   <style>
     .mono {{ font-family: {MONO}; }}
     .faden {{ fill: none; stroke: {FADEN}; stroke-width: 6; stroke-linecap: round; stroke-dasharray: 1; stroke-dashoffset: 1; animation: zeichnen 1.3s cubic-bezier(.5,0,.2,1) .4s forwards; }}
@@ -44,10 +44,10 @@ def kopf():
   <text x="48" y="39" class="mono" font-size="14" letter-spacing="1.4" fill="{MUTED}">// PRODUCT-SKILLS</text>
   <text x="{w-48}" y="39" class="mono" font-size="14" letter-spacing="1.4" fill="{MUTED}" text-anchor="end">SKILLS FÜR CLAUDE · GEMINI · CHATGPT · V0.1</text>
   <text x="48" y="122" class="mono" font-size="15" letter-spacing="1.6" fill="{MUTED}">// MARKETPLACE VON MARIE CHRISTIN EILERS</text>
-  <text x="46" y="208" font-family="{SANS}" font-size="70" font-weight="700" letter-spacing="-2" fill="{INK}">Gegenwind für</text>
-  <path class="faden" pathLength="1" d="M48,226 C130,214 230,232 330,219 C370,214 400,224 420,216"/>
-  <text x="46" y="292" font-family="{SANS}" font-size="70" font-weight="700" letter-spacing="-2" fill="{INK}">Product Owner.</text>
-  <text x="48" y="350" font-family="{SANS}" font-size="30" fill="{INK}">Ja-Sager hast du genug. Diese KI-Skills widersprechen.</text>
+  <text x="46" y="208" font-family="{SANS}" font-size="70" font-weight="700" letter-spacing="-2" fill="{INK}">Deine KI nickt alles ab.</text>
+  <text x="46" y="292" font-family="{SANS}" font-size="70" font-weight="700" letter-spacing="-2" fill="{INK}">Diese nicht.</text>
+  <path class="faden" pathLength="1" d="M48,312 C120,300 210,318 300,305 C340,300 380,310 410,302"/>
+  <text x="48" y="362" font-family="{SANS}" font-size="25" fill="{INK}">Skills für Product Owner, die widersprechen. Für Claude, Gemini und ChatGPT.</text>
   <text x="{w-48}" y="398" class="mono" font-size="16" fill="{INK}" text-anchor="end">$ sudo make it simple<tspan class="cur">▍</tspan></text>
 </svg>
 '''
