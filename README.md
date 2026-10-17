@@ -8,7 +8,7 @@
 
 Product owners are often alone in their role – and under pressure from every role around them: sales, engineering, management, customers. And your AI thinks every idea is brilliant.
 
-**You have enough yes-men.** These skills don't nod along: pushback instead of a pat on the back – until your decision holds up.
+**You have enough yes-men.** These skills don't nod along: headwind when you're off, tailwind when you're right – until your decision holds up.
 
 ## The skills
 

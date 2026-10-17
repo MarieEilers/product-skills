@@ -8,7 +8,7 @@
 
 Product Owner sind oft allein in ihrer Funktion – und unter Druck von allen Rollen um sie herum: Vertrieb, Entwicklung, Management, Kunden. Und die KI findet jede Idee großartig.
 
-**Ja-Sager hast du genug.** Die Skills hier nicken nicht ab: Gegenwind statt Schulterklopfen – bis deine Entscheidung trägt.
+**Ja-Sager hast du genug.** Die Skills hier nicken nicht ab: Gegenwind, wenn du danebenliegst, Rückenwind, wenn du recht hast – bis deine Entscheidung trägt.
 
 ## Die Skills
 

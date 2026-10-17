@@ -16,7 +16,7 @@
       "skills": [
         "./"
       ],
-      "description": "Socratic product coach in the style of the Silicon Valley Product Group (Marty Cagan). Honest, hard feedback instead of a pat on the back: sharpens product judgment, product sense and discovery discipline. Four modes: Situation, Skill-Building, Critique, Context-Sharpening. Comes with templates for strategic context, current themes, reference frameworks and a coaching log. Answers in the language you write in – English, German, French and more.",
+      "description": "Socratic product coach in the style of the Silicon Valley Product Group (Marty Cagan). Honest feedback both ways – headwind when you're off, tailwind when you're right: sharpens product judgment, product sense and discovery discipline. Four modes: Situation, Skill-Building, Critique, Context-Sharpening. Comes with templates for strategic context, current themes, reference frameworks and a coaching log. Answers in the language you write in – English, German, French and more.",
       "version": "0.2.1",
       "author": {
         "name": "Marie Christin Eilers"

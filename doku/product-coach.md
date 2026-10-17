@@ -1,6 +1,6 @@
 # Product Coach
 
-**Ein Claude-Skill für permanentes Coaching. Gegenwind statt Schulterklopfen.**
+**Ein Claude-Skill für permanentes Coaching. Gegenwind, wenn du danebenliegst. Rückenwind, wenn du recht hast.**
 
 [← Alle Skills](../README.de.md) · [In deine KI bringen](../README.de.md#so-kommt-ein-skill-in-deine-ki) · [Kurzfassung für ChatGPT](product-coach-kurzfassung.md) · [English](product-coach.en.md) · [Warum es ihn gibt: der Blogbeitrag](https://marieeilers.github.io/sudo-make-it-simple/beitraege/product-coach/)
 

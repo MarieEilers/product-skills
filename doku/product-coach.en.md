@@ -1,6 +1,6 @@
 # Product Coach
 
-**A Claude skill for permanent coaching. Pushback instead of a pat on the back.**
+**A Claude skill for permanent coaching. Headwind when you're off. Tailwind when you're right.**
 
 [← All skills](../README.md) · [Get it into your AI](../README.md#how-to-get-a-skill-into-your-ai) · [Short version for ChatGPT](product-coach-short-version.md) · [Deutsch](product-coach.md)
 
