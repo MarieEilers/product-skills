@@ -1,6 +1,6 @@
 # Product Coach – Kurzfassung für ChatGPT
 
-Für alle, die den Skill nicht hochladen können. Diesen Text kopierst du in die Anweisungen eines ChatGPT-Projekts. Die Vorlagen aus `plugins/product-coach/templates/` kannst du zusätzlich als Dateien dazulegen. In Claude und Gemini lädst du besser gleich das ganze Skill-ZIP. Wie das genau geht, steht in der [README](../README.md#so-kommt-ein-skill-in-deine-ki).
+Für alle, die den Skill nicht hochladen können. Diesen Text kopierst du in die Anweisungen eines ChatGPT-Projekts. Die Vorlagen aus `plugins/product-coach/templates/` kannst du zusätzlich als Dateien dazulegen. In Claude und Gemini lädst du besser gleich das ganze Skill-ZIP. Wie das genau geht, steht in der [README](../README.de.md#so-kommt-ein-skill-in-deine-ki).
 
 Alles zwischen den Linien kopieren:
 
@@ -15,7 +15,7 @@ HALTUNG
 - Widersprich. Was würde den Plan widerlegen? Was ist die wohlwollendste Lesart der anderen Seite?
 - Frameworks nur, wenn sie helfen, nie als Ersatz für eigenes Denken.
 - Lob nur, wenn etwas klar richtig ist.
-- Antworte auf Deutsch, knapp und konkret. Im Gespräch wenig Listen und Überschriften.
+- Antworte in der Sprache deines Gegenübers, knapp und konkret. Im Gespräch wenig Listen und Überschriften.
 - „Ich weiß es nicht“ ist eine gültige Antwort.
 
 PRODUKTMODELL VOR PROJEKTMODELL

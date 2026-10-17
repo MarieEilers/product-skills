@@ -1,74 +1,76 @@
+<p align="right"><b>English</b> · <a href="README.de.md">Deutsch</a></p>
+
 <p align="center">
-  <img src="assets/kopf-v3.svg" width="100%" alt="product-skills – Deine KI nickt alles ab. Diese nicht. Skills für Product Owner – in Claude, Gemini und ChatGPT.">
+  <img src="assets/kopf-en-2.svg" width="100%" alt="product-skills – Your AI nods along. These skills don't. Skills for product owners – in Claude, Gemini and ChatGPT.">
 </p>
 
-## Warum
+## Why
 
-Product Owner sind oft allein in ihrer Funktion – und unter Druck von allen Rollen um sie herum: Vertrieb, Entwicklung, Management, Kunden. Und die KI findet jede Idee großartig.
+Product owners are often alone in their role – and under pressure from every role around them: sales, engineering, management, customers. And your AI thinks every idea is brilliant.
 
-**Ja-Sager hast du genug.** Die Skills hier nicken nicht ab: Gegenwind statt Schulterklopfen – bis deine Entscheidung trägt.
+**You have enough yes-men.** These skills don't nod along: pushback instead of a pat on the back – until your decision holds up.
 
-## Die Skills
+## The skills
 
-| Skill | Was er für dich tut | Holen |
+| Skill | What it does for you | Get it |
 |---|---|---|
-| **[Product Coach](doku/product-coach.md)** | Nickt nichts ab, bis deine Entscheidung trägt – auch an einem ganz normalen Montag. Legt Annahmen frei, merkt, wann du vom Produktmodell in den Projektmodus rutschst, und gibt dir ehrliches, hartes Feedback zu deiner Rolle und deiner Aufgabe. | [ZIP](https://github.com/MarieEilers/product-skills/releases/latest/download/product-coach.zip) · [Kurzfassung für ChatGPT](doku/product-coach-kurzfassung.md) · [Blogbeitrag](https://marieeilers.github.io/sudo-make-it-simple/beitraege/product-coach/) |
+| <nobr><b>[Product&#8209;Coach](doku/product-coach.en.md)</b></nobr> | Doesn't nod anything through until your decision holds up – even on a perfectly ordinary Monday. Surfaces your assumptions, notices when you slide from the product model into project mode, and gives you honest, hard feedback on your role and your work. | [ZIP](https://github.com/MarieEilers/product-skills/releases/latest/download/product-coach.zip) · [Short version for ChatGPT](doku/product-coach-short-version.md) |
 
-Weitere Skills kommen dazu.
+More skills are on the way. All skills answer in the language you write in – English, German, French and more.
 
-## So kommt ein Skill in deine KI
+## How to get a skill into your AI
 
-<img src="assets/wege.svg" width="100%" alt="Vier Wege: Claude-App über den Marketplace (empfohlen), Claude-App per ZIP, Gemini mit demselben ZIP, ChatGPT als Projekt mit der Kurzfassung.">
+<img src="assets/wege-en-2.svg" width="100%" alt="Four ways: Claude app via the marketplace (recommended), Claude app via ZIP, Gemini with the same ZIP, ChatGPT as a project with the short version.">
 
-### Claude-App über den Marketplace – empfohlen
+### Claude app via the marketplace – recommended
 
-Einmal einrichten, danach stehen dir alle Skills dieses Marketplace zur Verfügung – im Chat und in Cowork, in der Desktop-App und auf claude.ai. Geht mit Pro, Max, Team und Enterprise.
+Set it up once and every skill in this marketplace is available to you – in chat and in Cowork, in the desktop app and on claude.ai. Works with Pro, Max, Team and Enterprise.
 
-<img src="assets/klickpfad.svg" width="100%" alt="Anpassungen, Plugins, Hinzufügen, Marketplace hinzufügen, Aus einem Repository hinzufügen, MarieEilers/product-skills eintragen, unter Entdecken beim product-coach auf Plus klicken.">
+<img src="assets/klickpfad-en-2.svg" width="100%" alt="Customize, Plugins, Add, Add marketplace, Add from a repository, enter MarieEilers/product-skills, then in Discover click plus on product-coach.">
 
-1. Öffne **Anpassungen** → **Plugins** → **Hinzufügen** → **Marketplace hinzufügen**.
-2. Wähle **Aus einem Repository hinzufügen** und trag `MarieEilers/product-skills` ein.
-3. Wechsle zu **Entdecken**, such **product-coach** und klick auf **+**.
-4. Starte einen neuen Chat und leg los: *„Coach mich auf eine Situation: …“*
+1. Open **Customize** → **Plugins** → **Add** → **Add marketplace**.
+2. Choose **Add from a repository** and enter `MarieEilers/product-skills`.
+3. Switch to **Discover**, find **product-coach** and click **+**.
+4. Start a new chat and go: *“Coach me on a situation: …”*
 
-Neue Skills kommen dazu, sobald du den Marketplace aktualisierst – oder von selbst, wenn du das automatische Synchronisieren einschaltest.
+New skills arrive when you check the marketplace for updates – or by themselves if you turn on automatic sync.
 
-### Claude-App per ZIP – ein einzelner Skill, auch im Gratis-Tarif
+### Claude app via ZIP – a single skill, free plan too
 
-1. Lade das ZIP herunter, zum Beispiel [product-coach.zip](https://github.com/MarieEilers/product-skills/releases/latest/download/product-coach.zip). **Nicht entpacken.**
-2. Öffne **Anpassungen** → **Skills** → **Hinzufügen** → **Skill hochladen** und wähle das ZIP.
-3. Starte einen neuen Chat.
+1. Download the ZIP, e.g. [product-coach.zip](https://github.com/MarieEilers/product-skills/releases/latest/download/product-coach.zip). **Don't unzip it.**
+2. Open **Customize** → **Skills** → **Add** → **Upload a skill** and pick the ZIP.
+3. Start a new chat.
 
-Klappt das Hochladen nicht, schalte in den **Einstellungen** unter **Funktionen** die Code-Ausführung ein.
+If the upload doesn't work, turn on code execution under **Settings** → **Capabilities**.
 
-### Gemini – dasselbe ZIP
+### Gemini – the same ZIP
 
-Gemini lädt seit Oktober 2026 dieselben Skills. Ein Abo brauchst du dafür nicht, die Funktion kommt aber nach und nach bei allen an.
+Since October 2026, Gemini can load the same skills. No subscription needed; the feature is rolling out gradually.
 
-1. Lade das [ZIP](https://github.com/MarieEilers/product-skills/releases/latest/download/product-coach.zip) herunter.
-2. Öffne in Gemini die **Skills** und lade das ZIP hoch.
-3. Starte einen neuen Chat.
+1. Download the [ZIP](https://github.com/MarieEilers/product-skills/releases/latest/download/product-coach.zip).
+2. Open **Skills** in Gemini and upload the ZIP.
+3. Start a new chat.
 
-### ChatGPT – als Projekt mit der Kurzfassung
+### ChatGPT – as a project with the short version
 
-Skills hochladen geht in ChatGPT nur mit Business- und Enterprise-Konten. Für alle anderen gibt es die [Kurzfassung](doku/product-coach-kurzfassung.md): gleiche Haltung, weniger Tiefe.
+In ChatGPT, uploading skills only works with Business and Enterprise accounts. For everyone else there's the [short version](doku/product-coach-short-version.md): same attitude, less depth.
 
-1. Leg ein **neues Projekt** an.
-2. Kopier die Kurzfassung in die **Anweisungen** des Projekts.
-3. Leg die [Vorlagen](plugins/product-coach/templates) als Dateien dazu. Das ist optional.
+1. Create a **new project**.
+2. Paste the short version into the project's **instructions**.
+3. Add the [templates](plugins/product-coach/templates) as files. Optional.
 
-### Claude Code – im Terminal
+### Claude Code – in the terminal
 
 ```text
 /plugin marketplace add MarieEilers/product-skills
 /plugin install product-coach@product-skills
 ```
 
-## Deine Daten
+## Your data
 
-Ein Skill besteht aus Anweisungen und Vorlagen. Es gibt keinen eigenen Server und keine Datensammlung. Für das Gespräch gelten die Datenregeln deiner KI. Die Beispiele in den Vorlagen sind erfunden.
+A skill consists of instructions and templates. No server of its own, no data collection. Your conversation is governed by the privacy terms of your AI. The examples in the templates are fictional.
 
 ---
 
 <p align="center"><code>$ sudo make it simple</code></p>
-<p align="center"><a href="LICENSE">MIT</a> · Marie Christin Eilers · <a href="https://www.linkedin.com/in/marieeilers/">LinkedIn</a> · <a href="https://github.com/MarieEilers">GitHub</a></p>
+<p align="center"><a href="LICENSE">MIT</a> · Marie Christin Eilers · <a href="https://marieeilers.github.io/sudo-make-it-simple/">Blog</a> · <a href="https://www.linkedin.com/in/marieeilers/">LinkedIn</a> · <a href="https://github.com/MarieEilers">GitHub</a></p>

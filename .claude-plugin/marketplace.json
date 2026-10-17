@@ -5,8 +5,8 @@
     "url": "https://github.com/MarieEilers"
   },
   "metadata": {
-    "description": "Deine KI nickt alles ab. Diese Skills nicht. Für Product Owner – in Claude, Gemini und ChatGPT.",
-    "version": "0.1.0"
+    "description": "Your AI nods along. These skills don't. Skills for product owners – in Claude, Gemini and ChatGPT, in the language you write in.",
+    "version": "0.2.1"
   },
   "plugins": [
     {
@@ -16,24 +16,26 @@
       "skills": [
         "./"
       ],
-      "description": "Sokratischer Product Coach im Stil der Silicon Valley Product Group (Marty Cagan). Ehrliches, hartes Feedback statt Schulterklopfen: schärft Product Judgment, Product Sense und Discovery-Disziplin. Vier Modi: Situation, Skill-Building, Critique, Context-Sharpening. Mit Vorlagen für strategischen Kontext, aktuelle Themen, Referenz-Frameworks und Coaching-Log. Sprache Deutsch.",
-      "version": "0.1.0",
+      "description": "Socratic product coach in the style of the Silicon Valley Product Group (Marty Cagan). Honest, hard feedback instead of a pat on the back: sharpens product judgment, product sense and discovery discipline. Four modes: Situation, Skill-Building, Critique, Context-Sharpening. Comes with templates for strategic context, current themes, reference frameworks and a coaching log. Answers in the language you write in – English, German, French and more.",
+      "version": "0.2.1",
       "author": {
         "name": "Marie Christin Eilers"
       },
       "license": "MIT",
       "keywords": [
-        "coaching",
-        "product-coach",
-        "product-owner",
-        "product-manager",
-        "svpg",
         "cagan",
+        "coaching",
+        "deutsch",
         "discovery",
-        "outcome-vs-output",
+        "english",
         "feature-factory",
+        "german",
+        "outcome-vs-output",
+        "product-coach",
+        "product-manager",
+        "product-owner",
         "socratic",
-        "deutsch"
+        "svpg"
       ]
     }
   ]

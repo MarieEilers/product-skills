@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="296" viewBox="0 0 1200 296" role="img" aria-label="In the Claude app: Customize, Plugins, Add, Add marketplace, Add from a repository, enter MarieEilers/product-skills, then in Discover click plus on product-coach.">
+  <style>
+    .chip rect { fill: #FFFFFF; stroke: #100F0D; stroke-width: 1.6; }
+    .chip text { font: 400 15.5px ui-monospace, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; fill: #100F0D; }
+    .chip.eingabe rect { fill: #100F0D; }
+    .chip.eingabe text { fill: #FFFFFF; }
+    .chip { animation: an 7.4s steps(1) infinite; }
+    @keyframes an { 0% { opacity: .28; } 6% { opacity: 1; } 100% { opacity: 1; } }
+    .pfeil { font: 400 18px ui-monospace, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; fill: #7A7A72; }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .nur-animiert { display: none; } .nur-statisch { display: inline; } }
+  </style>
+  <rect x="1" y="1" width="1198" height="294" rx="16" fill="#FFFFFF" stroke="#E4E4DE" stroke-width="2"/>
+  <text x="48" y="62" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" letter-spacing="1.6" fill="#7A7A72">// IN THE CLAUDE APP OR ON CLAUDE.AI</text>
+  <g class="chip " style="animation-delay:0.0s">
+      <rect x="48" y="108" width="136" height="46" rx="10"/>
+      <text x="74" y="137">Customize</text></g><text class="pfeil" x="201" y="137" text-anchor="middle">→</text><g class="chip " style="animation-delay:0.7s">
+      <rect x="217.7" y="108" width="117" height="46" rx="10"/>
+      <text x="243.7" y="137">Plugins</text></g><text class="pfeil" x="352" y="137" text-anchor="middle">→</text><g class="chip " style="animation-delay:1.4s">
+      <rect x="368.8" y="108" width="80" height="46" rx="10"/>
+      <text x="394.8" y="137">Add</text></g><text class="pfeil" x="466" y="137" text-anchor="middle">→</text><g class="chip " style="animation-delay:2.1s">
+      <rect x="482.70000000000005" y="108" width="192" height="46" rx="10"/>
+      <text x="508.70000000000005" y="137">Add marketplace</text></g><text class="pfeil" x="691" y="137" text-anchor="middle">→</text><g class="chip " style="animation-delay:2.8s">
+      <rect x="708.2" y="108" width="247" height="46" rx="10"/>
+      <text x="734.2" y="137">Add from a repository</text></g><text class="pfeil" x="65" y="209" text-anchor="middle">→</text><g class="chip eingabe" style="animation-delay:3.5s">
+      <rect x="82" y="180" width="294" height="46" rx="10"/>
+      <text x="108" y="209">MarieEilers/product-skills</text></g><text class="pfeil" x="393" y="209" text-anchor="middle">→</text><g class="chip " style="animation-delay:4.2s">
+      <rect x="409.8" y="180" width="312" height="46" rx="10"/>
+      <text x="435.8" y="209">Discover → product-coach → +</text></g>
+</svg>

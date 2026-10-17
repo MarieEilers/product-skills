@@ -2,7 +2,7 @@
 
 **Ein Claude-Skill für permanentes Coaching. Gegenwind statt Schulterklopfen.**
 
-[← Alle Skills](../README.md) · [In deine KI bringen](../README.md#so-kommt-ein-skill-in-deine-ki) · [Kurzfassung für ChatGPT](product-coach-kurzfassung.md) · [Warum es ihn gibt: der Blogbeitrag](https://marieeilers.github.io/sudo-make-it-simple/beitraege/product-coach/)
+[← Alle Skills](../README.de.md) · [In deine KI bringen](../README.de.md#so-kommt-ein-skill-in-deine-ki) · [Kurzfassung für ChatGPT](product-coach-kurzfassung.md) · [English](product-coach.en.md) · [Warum es ihn gibt: der Blogbeitrag](https://marieeilers.github.io/sudo-make-it-simple/beitraege/product-coach/)
 
 ## Warum
 
@@ -10,9 +10,9 @@ Product Owner sind oft allein in ihrer Funktion und stehen unter Druck von allen
 
 ## So sieht das aus
 
-<img src="../assets/product-coach-chat.svg" width="100%" alt="Chat mit dem Product Coach: Das Management war direkt beim Team, die Kundenprio liegt auf Eis. Der Coach fragt nach dem Problem hinter dem Export, hält einen Spiegel vor und gibt einen Plan bis Freitag.">
+<img src="../assets/product-coach-chat-de-2.svg" width="100%" alt="Chat mit dem Product Coach: Das Management war direkt beim Team, die Kundenprio liegt auf Eis. Der Coach fragt nach dem Problem hinter dem Export, hält einen Spiegel vor und gibt einen Plan bis Freitag.">
 
-Echte Sitzung, erfundener Fall, gekürzt.
+Echte Sitzung, erfundener Fall, gekürzt. Der Coach antwortet in der Sprache, in der du schreibst.
 
 ## Du brauchst keine Krise. Ein normaler Montag reicht.
 

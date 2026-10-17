@@ -10,11 +10,11 @@
   <rect x="1" y="1" width="1198" height="428" rx="16" fill="#FFFFFF" stroke="#E4E4DE" stroke-width="2"/>
   <line x1="1" y1="62" x2="1199" y2="62" stroke="#E4E4DE" stroke-width="2"/>
   <text x="48" y="39" class="mono" font-size="14" letter-spacing="1.4" fill="#7A7A72">// PRODUCT-SKILLS</text>
-  <text x="1152" y="39" class="mono" font-size="14" letter-spacing="1.4" fill="#7A7A72" text-anchor="end">SKILLS FÜR CLAUDE · GEMINI · CHATGPT · V0.1</text>
+  <text x="1152" y="39" class="mono" font-size="14" letter-spacing="1.4" fill="#7A7A72" text-anchor="end">SKILLS FÜR CLAUDE · GEMINI · CHATGPT · V0.2</text>
   <text x="48" y="122" class="mono" font-size="15" letter-spacing="1.6" fill="#7A7A72">// MARKETPLACE VON MARIE CHRISTIN EILERS</text>
   <text x="46" y="208" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="70" font-weight="700" letter-spacing="-2" fill="#100F0D">Deine KI nickt alles ab.</text>
   <text x="46" y="292" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="70" font-weight="700" letter-spacing="-2" fill="#100F0D">Diese nicht.</text>
-  <path class="faden" pathLength="1" d="M48,312 C120,300 210,318 300,305 C340,300 380,310 410,302"/>
-  <text x="48" y="362" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="25" fill="#100F0D">Skills für Product Owner – in Claude, Gemini und ChatGPT.</text>
+  <path class="faden" pathLength="1" d="M48,312 C120,300 211,318 301,305 C338,300 381,310 410,302"/>
+  <text x="48" y="362" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="25" fill="#100F0D">Skills für Product Owner – in Claude, Gemini und ChatGPT. Deutsch und Englisch.</text>
   <text x="1152" y="398" class="mono" font-size="16" fill="#100F0D" text-anchor="end">$ sudo make it simple<tspan class="cur">▍</tspan></text>
 </svg>
