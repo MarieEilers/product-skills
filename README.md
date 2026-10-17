@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="assets/kopf.svg" width="100%" alt="product-skills – Gegenwind für Product Owner. Claude-Skills, die fragen statt schreiben. Für die Claude-App und Claude Code.">
+  <img src="assets/kopf.svg" width="100%" alt="product-skills – Gegenwind für Product Owner. Ja-Sager hast du genug. Diese KI-Skills widersprechen.">
 </p>
 
 ## Warum
 
 Product Owner entscheiden oft allein – zwischen Vertrieb, Entwicklung und Management, umgeben von Ideen, Forderungen und Terminen. Und die KI findet jede Idee großartig.
 
-Die Skills hier machen das Gegenteil: **Sie fragen, statt für dich zu schreiben.** Gegenwind statt Schulterklopfen – damit du klarer entscheidest.
+**Ja-Sager hast du genug.** Die Skills hier widersprechen: Gegenwind statt Schulterklopfen – bis deine Entscheidung trägt.
 
 ## Die Skills
 
