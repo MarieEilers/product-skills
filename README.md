@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="assets/kopf-v2.svg" width="100%" alt="product-skills – Deine KI nickt alles ab. Diese nicht. Skills für Product Owner, die widersprechen. Für Claude, Gemini und ChatGPT.">
+  <img src="assets/kopf-v3.svg" width="100%" alt="product-skills – Deine KI nickt alles ab. Diese nicht. Skills für Product Owner – in Claude, Gemini und ChatGPT.">
 </p>
 
 ## Warum
 
 Product Owner entscheiden oft allein – zwischen Vertrieb, Entwicklung und Management, umgeben von Ideen, Forderungen und Terminen. Und die KI findet jede Idee großartig.
 
-**Ja-Sager hast du genug.** Die Skills hier widersprechen: Gegenwind statt Schulterklopfen – bis deine Entscheidung trägt.
+**Ja-Sager hast du genug.** Die Skills hier nicken nicht ab: Gegenwind statt Schulterklopfen – bis deine Entscheidung trägt.
 
 ## Die Skills
 
 | Skill | Was er für dich tut | Holen |
 |---|---|---|
-| **[Product Coach](doku/product-coach.md)** | Widerspricht, bis deine Entscheidung trägt – auch an einem ganz normalen Montag. Legt Annahmen frei, merkt, wann du vom Produktmodell in den Projektmodus rutschst, und gibt dir ehrliches, hartes Feedback zu deiner Rolle und deiner Aufgabe. | [ZIP](https://github.com/MarieEilers/product-skills/releases/latest/download/product-coach.zip) · [Kurzfassung für ChatGPT](doku/product-coach-kurzfassung.md) |
+| **[Product Coach](doku/product-coach.md)** | Nickt nichts ab, bis deine Entscheidung trägt – auch an einem ganz normalen Montag. Legt Annahmen frei, merkt, wann du vom Produktmodell in den Projektmodus rutschst, und gibt dir ehrliches, hartes Feedback zu deiner Rolle und deiner Aufgabe. | [ZIP](https://github.com/MarieEilers/product-skills/releases/latest/download/product-coach.zip) · [Kurzfassung für ChatGPT](doku/product-coach-kurzfassung.md) |
 
 Weitere Skills kommen dazu.
 
