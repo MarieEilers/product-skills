@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/kopf.svg" width="100%" alt="product-skills – Deine KI nickt alles ab. Diese nicht. Skills für Product Owner, die widersprechen. Für Claude, Gemini und ChatGPT.">
+  <img src="assets/kopf-v2.svg" width="100%" alt="product-skills – Deine KI nickt alles ab. Diese nicht. Skills für Product Owner, die widersprechen. Für Claude, Gemini und ChatGPT.">
 </p>
 
 ## Warum

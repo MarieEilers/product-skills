@@ -244,7 +244,7 @@ def wege():
 
 
 if __name__ == "__main__":
-    schreibe("kopf.svg", kopf())
+    schreibe("kopf-v2.svg", kopf())
     schreibe("klickpfad.svg", klickpfad())
     schreibe("wege.svg", wege())
     schreibe("product-coach-chat.svg", chat())
