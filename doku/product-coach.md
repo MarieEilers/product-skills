@@ -6,7 +6,7 @@
 
 ## Warum
 
-Product Owner entscheiden oft allein. Ehrliches Sparring für Produktentscheidungen? **404 – not found.** Der Product Coach schreibt dir keine Zeile – er gibt dir ehrliches, hartes Feedback zu deiner Rolle und deiner Aufgabe.
+Product Owner sind oft allein in ihrer Funktion und stehen unter Druck von allen Rollen um sie herum. Ehrliches Sparring für Produktentscheidungen? **404 – not found.** Der Product Coach schreibt dir keine Zeile – er gibt dir ehrliches, hartes Feedback zu deiner Rolle und deiner Aufgabe.
 
 ## So sieht das aus
 
