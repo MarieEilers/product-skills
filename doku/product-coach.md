@@ -14,9 +14,9 @@ Product Owner entscheiden oft allein. Ehrliches Sparring für Produktentscheidun
 
 Echte Sitzung, erfundener Fall, gekürzt.
 
-## Nicht nur für Krisen
+## Du brauchst keine Krise. Ein normaler Montag reicht.
 
-Dein täglicher Begleiter, der dir immer wieder den Kopf wäscht. Vier Arten, ihn zu fragen:
+Vier Sätze, mit denen du einsteigst:
 
 | Modus | Sag zum Beispiel |
 |---|---|

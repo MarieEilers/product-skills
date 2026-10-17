@@ -12,7 +12,7 @@ Product Owner entscheiden oft allein – zwischen Vertrieb, Entwicklung und Mana
 
 | Skill | Was er für dich tut | Holen |
 |---|---|---|
-| **[Product Coach](doku/product-coach.md)** | Dein täglicher Begleiter, der dir immer wieder den Kopf wäscht. Legt Annahmen frei, merkt, wann du vom Produktmodell in den Projektmodus rutschst, und gibt dir ehrliches, hartes Feedback zu deiner Rolle und deiner Aufgabe. | [ZIP](https://github.com/MarieEilers/product-skills/releases/latest/download/product-coach.zip) · [Kurzfassung für ChatGPT](doku/product-coach-kurzfassung.md) |
+| **[Product Coach](doku/product-coach.md)** | Widerspricht, bis deine Entscheidung trägt – auch an einem ganz normalen Montag. Legt Annahmen frei, merkt, wann du vom Produktmodell in den Projektmodus rutschst, und gibt dir ehrliches, hartes Feedback zu deiner Rolle und deiner Aufgabe. | [ZIP](https://github.com/MarieEilers/product-skills/releases/latest/download/product-coach.zip) · [Kurzfassung für ChatGPT](doku/product-coach-kurzfassung.md) |
 
 Weitere Skills kommen dazu.
 
