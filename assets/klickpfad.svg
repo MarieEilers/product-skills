@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="296" viewBox="0 0 1200 296" role="img" aria-label="In der Claude-App: Anpassungen, Plugins, Hinzufügen, Marketplace hinzufügen, Aus einem Repository hinzufügen, MarieEilers/product-skills eintragen, unter Entdecken beim product-coach auf Plus klicken.">
+  <style>
+    .chip rect { fill: #FFFFFF; stroke: #100F0D; stroke-width: 1.6; }
+    .chip text { font: 400 15.5px ui-monospace, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; fill: #100F0D; }
+    .chip.eingabe rect { fill: #100F0D; }
+    .chip.eingabe text { fill: #FFFFFF; }
+    .chip { animation: an 7.4s steps(1) infinite; }
+    @keyframes an { 0% { opacity: .28; } 6% { opacity: 1; } 100% { opacity: 1; } }
+    .pfeil { font: 400 18px ui-monospace, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; fill: #7A7A72; }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .nur-animiert { display: none; } .nur-statisch { display: inline; } }
+  </style>
+  <rect x="1" y="1" width="1198" height="294" rx="16" fill="#FFFFFF" stroke="#E4E4DE" stroke-width="2"/>
+  <text x="48" y="62" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" letter-spacing="1.6" fill="#7A7A72">// IN DER CLAUDE-APP ODER AUF CLAUDE.AI</text>
+  <g class="chip " style="animation-delay:0.0s">
+      <rect x="48" y="108" width="154" height="46" rx="10"/>
+      <text x="74" y="137">Anpassungen</text></g><text class="pfeil" x="219" y="137" text-anchor="middle">→</text><g class="chip " style="animation-delay:0.7s">
+      <rect x="236.3" y="108" width="117" height="46" rx="10"/>
+      <text x="262.3" y="137">Plugins</text></g><text class="pfeil" x="370" y="137" text-anchor="middle">→</text><g class="chip " style="animation-delay:1.4s">
+      <rect x="387.40000000000003" y="108" width="145" height="46" rx="10"/>
+      <text x="413.40000000000003" y="137">Hinzufügen</text></g><text class="pfeil" x="549" y="137" text-anchor="middle">→</text><g class="chip " style="animation-delay:2.1s">
+      <rect x="566.4000000000001" y="108" width="257" height="46" rx="10"/>
+      <text x="592.4000000000001" y="137">Marketplace hinzufügen</text></g><text class="pfeil" x="65" y="209" text-anchor="middle">→</text><g class="chip " style="animation-delay:2.8s">
+      <rect x="82" y="180" width="340" height="46" rx="10"/>
+      <text x="108" y="209">Aus einem Repository hinzufügen</text></g><text class="pfeil" x="439" y="209" text-anchor="middle">→</text><g class="chip eingabe" style="animation-delay:3.5s">
+      <rect x="456.3" y="180" width="294" height="46" rx="10"/>
+      <text x="482.3" y="209">MarieEilers/product-skills</text></g><text class="pfeil" x="767" y="209" text-anchor="middle">→</text><g class="chip " style="animation-delay:4.2s">
+      <rect x="784.1" y="180" width="322" height="46" rx="10"/>
+      <text x="810.1" y="209">Entdecken → product-coach → +</text></g>
+</svg>
