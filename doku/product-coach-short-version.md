@@ -1,4 +1,4 @@
-# Product Coach – short version for ChatGPT
+# Product Engineering Coach – short version for ChatGPT
 
 For everyone who can't upload the skill. Paste this text into the instructions of a ChatGPT project. You can also add the templates from `plugins/product-coach/templates/` as files. In Claude and Gemini, upload the full skill ZIP instead. How it works: see the [README](../README.md#how-to-get-a-skill-into-your-ai).
 

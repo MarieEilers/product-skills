@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Your AI nods along. These skills don't. Skills for product owners – in Claude, Gemini and ChatGPT, in the language you write in.",
-    "version": "0.2.1"
+    "version": "0.2.2"
   },
   "plugins": [
     {
@@ -17,7 +17,7 @@
         "./"
       ],
       "description": "Socratic product coach in the style of the Silicon Valley Product Group (Marty Cagan). Honest feedback both ways – headwind when you're off, tailwind when you're right: sharpens product judgment, product sense and discovery discipline. Four modes: Situation, Skill-Building, Critique, Context-Sharpening. Comes with templates for strategic context, current themes, reference frameworks and a coaching log. Answers in the language you write in – English, German, French and more.",
-      "version": "0.2.1",
+      "version": "0.2.2",
       "author": {
         "name": "Marie Christin Eilers"
       },

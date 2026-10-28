@@ -1,4 +1,4 @@
-# Product Coach
+# Product Engineering Coach
 
 **Ein Claude-Skill für permanentes Coaching. Gegenwind, wenn du danebenliegst. Rückenwind, wenn du recht hast.**
 
@@ -6,11 +6,11 @@
 
 ## Warum
 
-Product Owner sind oft allein in ihrer Funktion und stehen unter Druck von allen Rollen um sie herum. Ehrliches Sparring für Produktentscheidungen? **404 – not found.** Der Product Coach schreibt dir keine Zeile – er gibt dir ehrliches, hartes Feedback zu deiner Rolle und deiner Aufgabe.
+Product Owner sind oft allein in ihrer Funktion und stehen unter Druck von allen Rollen um sie herum. Ehrliches Sparring für Produktentscheidungen? **404 – not found.** Der Product Engineering Coach schreibt dir keine Zeile – er gibt dir ehrliches, hartes Feedback zu deiner Rolle und deiner Aufgabe.
 
 ## So sieht das aus
 
-<img src="../assets/product-coach-chat-de-3.svg" width="100%" alt="Chat mit dem Product Coach: Das Management war direkt beim Team, die Kundenprio liegt auf Eis. Der Coach fragt nach dem Problem hinter dem Export, hält einen Spiegel vor und gibt einen Plan bis Freitag.">
+<img src="../assets/product-coach-chat-de-4.svg" width="100%" alt="Chat mit dem Product Engineering Coach: Das Management war direkt beim Team, die Kundenprio liegt auf Eis. Der Coach fragt nach dem Problem hinter dem Export, hält einen Spiegel vor und gibt einen Plan bis Freitag.">
 
 Echte Sitzung, erfundener Fall, gekürzt. Der Coach antwortet in der Sprache, in der du schreibst.
 

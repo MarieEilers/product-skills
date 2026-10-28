@@ -27,7 +27,7 @@ def schreibe(name, inhalt):
     print("geschrieben:", ZIEL / name)
 
 
-BV = "3"  # Bildversion: bei Änderungen hochzählen, sonst zeigt GitHub alte Bilder aus dem Cache
+BV = "4"  # Bildversion: bei Änderungen hochzählen, sonst zeigt GitHub alte Bilder aus dem Cache
 
 T = {
     "de": {
@@ -39,7 +39,7 @@ T = {
         "klick": ["Anpassungen", "Plugins", "Hinzufügen", "Marketplace hinzufügen", "Aus einem Repository hinzufügen", "MarieEilers/product-skills", "Entdecken → product-coach → +"],
         "klick_titel": "// IN DER CLAUDE-APP ODER AUF CLAUDE.AI",
         "klick_label": "In der Claude-App: Anpassungen, Plugins, Hinzufügen, Marketplace hinzufügen, Aus einem Repository hinzufügen, MarieEilers/product-skills eintragen, unter Entdecken beim product-coach auf Plus klicken.",
-        "chat_label": "Chat mit dem Product Coach in der Claude-App: echte Sitzung mit erfundenem Fall, gekürzt.",
+        "chat_label": "Chat mit dem Product Engineering Coach in der Claude-App: echte Sitzung mit erfundenem Fall, gekürzt.",
         "chat_rechts": "ECHTE SITZUNG · ERFUNDENER FALL · GEKÜRZT", "chat_denkt": "denkt nach …", "chat_eingabe": "Antworte Claude …",
         "chat": [
             ("du", "Coach mich auf eine Situation. Das Management war direkt beim Team. Die bauen jetzt den Export, den der Vertrieb einem Großkunden bis März versprochen hat. Unsere Kundenprio #1 liegt damit auf Eis."),
@@ -71,7 +71,7 @@ T = {
         "klick": ["Customize", "Plugins", "Add", "Add marketplace", "Add from a repository", "MarieEilers/product-skills", "Discover → product-coach → +"],
         "klick_titel": "// IN THE CLAUDE APP OR ON CLAUDE.AI",
         "klick_label": "In the Claude app: Customize, Plugins, Add, Add marketplace, Add from a repository, enter MarieEilers/product-skills, then in Discover click plus on product-coach.",
-        "chat_label": "Chat with the Product Coach in the Claude app: real session with a fictional case, shortened, translated from German.",
+        "chat_label": "Chat with the Product Engineering Coach in the Claude app: real session with a fictional case, shortened, translated from German.",
         "chat_rechts": "REAL SESSION · FICTIONAL CASE · SHORTENED · TRANSLATED", "chat_denkt": "thinking …", "chat_eingabe": "Reply to Claude …",
         "chat": [
             ("du", "Coach me on a situation. Management went straight to the team. They're now building the export that sales promised a key account by March. Our customer priority #1 is on hold."),

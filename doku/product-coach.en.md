@@ -1,4 +1,4 @@
-# Product Coach
+# Product Engineering Coach
 
 **A Claude skill for permanent coaching. Headwind when you're off. Tailwind when you're right.**
 
@@ -6,11 +6,11 @@
 
 ## Why
 
-Product owners are often alone in their role and under pressure from every role around them. Honest sparring for product decisions? **404 – not found.** The Product Coach doesn't write a single line for you – it gives you honest, hard feedback on your role and your work.
+Product owners are often alone in their role and under pressure from every role around them. Honest sparring for product decisions? **404 – not found.** The Product Engineering Coach doesn't write a single line for you – it gives you honest, hard feedback on your role and your work.
 
 ## What it looks like
 
-<img src="../assets/product-coach-chat-en-3.svg" width="100%" alt="Chat with the Product Coach: management went straight to the team, the customer priority is on hold. The coach asks for the problem behind the export, holds up a mirror and gives a plan for Friday.">
+<img src="../assets/product-coach-chat-en-4.svg" width="100%" alt="Chat with the Product Engineering Coach: management went straight to the team, the customer priority is on hold. The coach asks for the problem behind the export, holds up a mirror and gives a plan for Friday.">
 
 Real session, fictional case, shortened, translated from German. The coach answers in the language you write in.
 
@@ -46,4 +46,4 @@ The skill and its templates are written in German; the coach translates the temp
 
 Marty Cagan: *Inspired*, *Empowered* (with Chris Jones), *Transformed* · Jeff Patton: *User Story Mapping* · Mary Parker Follett: *Dynamic Administration* · Teresa Torres: *Continuous Discovery Habits* · Matthew Skelton, Manuel Pais: *Team Topologies*
 
-Background (German): [Product Coach: ein Claude-Skill, der widerspricht statt abzunicken](https://marieeilers.github.io/bluu/beitraege/product-coach/)
+Background (German): [Product Engineering Coach: ein Claude-Skill, der widerspricht statt abzunicken](https://marieeilers.github.io/bluu/beitraege/product-coach/)

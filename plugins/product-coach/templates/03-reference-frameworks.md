@@ -39,6 +39,10 @@ anderen drei nicht verdraengen.
 **Beide verwechseln** — Production-Grade-Sachen bauen, um zu lernen — ist ein
 verbreitetes Anti-Pattern.
 
+**Tempo vs Sicherheit** (@produxtmanager, 01.10.2026): Beides zugleich gibt es selten. Wer zu
+schnell baut, baut womoeglich das Falsche. Coaching-Frage: Wie viel Sicherheit braucht
+diese Entscheidung, und was ist der kleinste Test, der sie liefert, bevor gebaut wird?
+
 ## Strategic Context (Cagan)
 
 Ein Produkt-Team braucht vier Dinge, um im Produktmodell zu funktionieren:
@@ -104,6 +108,119 @@ Plus **3 Interaction Modes**: Collaboration, X-as-a-Service, Facilitating.
   Assumptions zu testen.
 - **Assumption Tests**: vor Build, kleinster Test, der eine Annahme prueft.
 
+## Intent & Craft im KI-Bauboom (Katie Dill, Stripe)
+
+Ausgangsbild: der Bauboom nach dem Zweiten Weltkrieg. Der Modernismus hatte eine
+Haltung, die Kopien danach nur noch das Muster. Ergebnis: austauschbare
+"Zombie-Gebaeude". Mit KI kann heute jeder bauen, und es droht dasselbe in
+Software: **Zombie UI**, also eintoenig, leer oder vernachlaessigt.
+
+Drei Beobachtungspunkte:
+
+- **LLMs liefern das Wahrscheinlichste.** Gut fuer "was funktioniert hat", schwach
+  bei "was ist eigen, was passt zu unserer Marke und dem Kontext unserer Nutzer".
+- **Burrito-Dilemma.** Die Geschwindigkeit fasziniert so sehr, dass man grobe
+  Maengel uebersieht. Ein poliert wirkender Erstentwurf taeuscht Fertigkeit vor.
+- **Wegwerf-Haltung.** Was schnell gebaut ist, wird als entbehrlich behandelt.
+  Verantwortung fuer Entscheidungen und Langzeitfolgen faellt weg.
+
+Vier Empfehlungen, als Coaching-Fragen nutzbar:
+
+1. **Point of View haben.** Ohne eigene Haltung liefert die KI eine, und die ist
+   generisch und rueckwaertsgewandt. *Frage:* Wer wollt ihr fuer eure Nutzer
+   sein, und woran sieht man das im Detail? Qualitaetsmassstab ist das Ergebnis
+   fuer den Nutzer, nicht der Herstellungsweg ("Warum soll es zaehlen, wie es
+   gemacht wurde?"). Ziel ist nicht Perfektion, sondern eine Ebene tiefer gehen,
+   als der Kunde sieht. Geschmack entsteht durch genaues Hinschauen: was Nutzer
+   brauchen (nicht nur sagen), was in Produkten, Kunst und Alltag gut wirkt.
+2. **Standards in die Maschine codieren.** Entscheidungen fallen zunehmend ohne
+   Designer im Raum (verteiltes Bauen, Agenten, generative UI). Das Designobjekt
+   ist nicht mehr der Screen, sondern das System. Das alte System skalierte
+   Konsistenz, das neue muss **Intent** skalieren: ganze Muster und Flows statt
+   nur Komponenten, meinungsstark und zum richtigen Zeitpunkt in den Kontext
+   geladen. *Frage:* Wo steht euer Massstab so, dass ein Agent ihn anwenden kann?
+3. **"Fertig" nicht mit "gut" verwechseln.** Frueher filterte die Knappheit
+   (20 Ideen, eine wird gebaut). Heute entsteht alles, und der Filter muss nach
+   dem Bauen kommen, wo Nein-Sagen schwerer faellt. Dafuer braucht es die Rolle
+   des **Editors**, die das Ganze von Anfang bis Ende verantwortet. Ein System
+   kann jede Regel erfuellen und trotzdem tot sein (Christopher Alexander).
+   *Fragen:* Loest es das Problem wirklich? Entspricht es dem Denken des Nutzers?
+   Ist es als Ganzes stimmig oder nur in Einzelteilen? Ist es ueberhaupt
+   ausgeformt? Beispiel: eine KI-gestuetzte Animation brauchte 56 Iterationen bis
+   zur Qualitaet; die KI oeffnete den Moeglichkeitsraum, ersetzte aber nicht das
+   pruefende Auge.
+4. **Kreativitaet freisetzen.** KI senkt die Kosten des Erschaffens; einen Teil der
+   Ersparnis in Eigenes investieren. Wenn alle bauen, wird Differenzierung
+   wichtiger. KI soll die Decke anheben, nicht nur den Boden. Taktik: Inputs mit
+   eigenem Massstab und Quellmaterial anreichern, Outputs nie beim ersten Wurf
+   belassen, Gegen-Agenten zur Kritik einsetzen. Fuehrung: Raum zum Erkunden
+   geben, "das Seltsame schuetzen".
+
+Ergaenzend: **Vier Dimensionen von Ambition mit KI** (Felix Rieseberg, Anthropic, hier aus
+einer Zusammenfassung auf Instagram, nicht aus dem Original): **Speed** (schneller erledigen, der
+offensichtliche Teil) · **Altitude** (Ergebnisse statt Einzelaufgaben vorgeben, etwa "die
+Anwendung bleibt absturzfrei" statt "behebe diesen Fehler") · **Depth** (aussergewoehnliche
+Qualitaet verlangen: Expertenmethoden, Rohdaten, unabhaengige Pruefung) · **Range** (Disziplinen
+kombinieren). *Frage:* Nutzt du KI gerade nur fuer Speed, und welches Ergebnis haettest du dir
+ohne sie nicht vorgenommen?
+
+Im Coaching einsetzen, wenn der User mit KI baut oder bauen laesst und die Frage
+nach Qualitaet, Differenzierung oder Abnahme offen ist. Verbindet sich mit
+**Build to Learn**: schnelle KI-Prototypen sind Discovery, aber die Editor-Frage
+muss gestellt werden, bevor daraus Delivery wird.
+
+## Gewohnheits-Check: woran PMs scheitern (@produxtmanager)
+
+Kein Framework, sondern eine Diagnose-Liste. Die These: PMs scheitern selten an
+fehlendem Koennen, sondern an Gewohnheiten, die sich produktiv anfuehlen und das
+Produkt nicht voranbringen. Der Coach nutzt die Liste, um ein Verhalten zu benennen,
+und fragt dann nach dem konkreten Fall. Ein Urteil ueber die Person faellt er nicht.
+
+| Gewohnheit | Kern | Verbindung |
+|---|---|---|
+| Ja sagen, weil Nein unangenehm ist | Jedes unnoetige Ja zerstreut den Fokus | Nein als Entscheidung, Follett |
+| Bauen, bevor das Problem verstanden ist | Schnelle Loesung fuers falsche Problem bleibt falsch | Problem-Modus, Discovery |
+| Jede Stakeholder-Anfrage als Prioritaet | Druck ist nicht gleich Wirkung | Feature Factory |
+| Lautester Stakeholder formt die Roadmap | Lautstaerke ist kein Beleg | Situation als Autoritaet |
+| Jedes Meeting besuchen aus Angst, etwas zu verpassen | Ueberall sein heisst nicht Wert stiften | Fokus, Team Topologies |
+| Daten nutzen, um die eigene Meinung zu verteidigen | Nur bestaetigende Belege suchen ist keine Discovery | Assumption Tests |
+| Features ausliefern mit Wert verwechseln | Ausgeliefert ist Output, Nutzerverhalten danach ist Outcome | Outcome vs Output |
+| Entscheidungen bei jedem Widerspruch neu oeffnen | Widerspruch heisst nicht, dass die Entscheidung falsch war | Festgelegtes stabil halten |
+| Nutzer nach Wuenschen fragen statt nach ihrem Ziel | Nutzer beschreiben Loesungen, PMs untersuchen Probleme | Continuous Discovery, JTBD |
+| Produktivitaet an Beschaeftigung messen | Voller Kalender, leere Roadmap | Outcome vs Output |
+| Schwierigen Gespraechen ausweichen | Kurzfristige Ruhe, langfristige Produktprobleme | Wahrheit vor Affirmation |
+
+Zusammenfassung: Die schlimmste Gewohnheit ist, das zu tun, was sich produktiv
+anfuehlt, statt das, was das Produkt voranbringt. Gutes Produktmanagement heisst
+nicht mehr tun, sondern konsequent entscheiden, was Zeit, Aufmerksamkeit und
+Entscheidungen verdient.
+
+*Coaching-Fragen:* Welche Gewohnheit davon hat dich diese Woche Zeit gekostet? Was
+hast du zugesagt, das du eigentlich ablehnen wolltest, und was hat dich abgehalten?
+Welche Entscheidung hast du wieder aufgemacht, und gab es dafuer neue Fakten oder
+nur neuen Widerspruch?
+
+## Ungeschriebene Regeln als Push-back-Fragen (@produxtmanager)
+
+Ergaenzung zum Gewohnheits-Check. Hier geht es nicht um eigene Gewohnheiten,
+sondern um typische Saetze von aussen und die Gegenfrage, die der Coach dem User
+an die Hand gibt.
+
+| Wenn jemand sagt ... | Gegenfrage |
+|---|---|
+| "Das ist nur ein kleines Feature." | Was haengt alles daran (Support, Randfaelle, Pflege)? Klein ist es selten. |
+| Der CEO will es. | Welches Problem steckt hinter der Anfrage? Auch eine CEO-Anfrage ist eine Anfrage. |
+| Etwas soll noch auf die Roadmap. | Was faellt dafuer runter? Je voller die Roadmap, desto weniger sagt sie aus. Sie ist eine Sammlung von Wetten, keine To-do-Liste. |
+| "Die Nutzer haben danach gefragt." | Warum haben sie gefragt? Der Wunsch allein ist kein Grund zu bauen. |
+| Das Feature ist live. | Was tun die Nutzer jetzt anders? Erst ihr Verhalten zeigt den Erfolg. |
+| Engineering schaetzt drei Monate. | Was macht es drei Monate? Erst verstehen, dann ueber den Zeitplan reden. |
+| Sales sagt, ein Kunde braucht es. | Wie viele andere Kunden haben dasselbe Problem? Ein Kunde ist noch kein Markt. |
+| Viele Kennzahlen im Dashboard. | Welche eine Kennzahl zeigt, ob das Produkt funktioniert? |
+
+Passt zu: Feature Factory, Roadmap als Hypothese, Outcome vs Output, Four Product
+Risks (Viability bei Sales-Anfragen), Follett ("die Situation als Autoritaet"
+statt Rang des Anfragenden).
+
 ## Anti-Patterns, die der Coach beobachtet
 
 - Stakeholder-Wuensche als Anforderungen behandeln, ohne das zugrundeliegende
@@ -118,6 +235,8 @@ Plus **3 Interaction Modes**: Collaboration, X-as-a-Service, Facilitating.
 - Roadmap als Commitment statt als Hypothese.
 - **Broken Trust Loop**: unvalidiertes Feature → negatives Stakeholder-Feedback
   → engere Top-down-Kontrolle → mehr unvalidierte Features.
+- **Zombie UI**: KI-Erstentwurf als fertig ausgeliefert, weil er poliert wirkt —
+  ohne Editor, ohne eigenen Massstab, ohne Blick aufs Ganze.
 
 ## Coach-Vokabular (haeufig benutzte Begriffe)
 
@@ -134,3 +253,10 @@ Bei deutschen Begriffen wenn praeziser: **Produkt-Sinn** (Product Sense),
 - **Teresa Torres** — *Continuous Discovery Habits*.
 - **Mary Parker Follett** — *Dynamic Administration* (1941, posthumes Sammelband).
 - **Skelton / Pais** — *Team Topologies*.
+- **Katie Dill (Stripe)** — "How to scale intent, quality, and artistry with AI",
+  Lenny and Friends Summit, San Francisco, 10.09.2026 (YouTube: GLvFTMtw4Jk).
+- **@produxtmanager** — Instagram-Carousel "Most PMs don't fail because...",
+  25.09.2026. Praxis-Beitrag, keine Primaerquelle; Folien 01 und 13 fehlen in der
+  Vorlage.
+- **@produxtmanager** — Instagram-Carousel "The Unwritten Rules of Product
+  Management", 21.09.2026. Praxis-Beitrag; Folie 03 fehlt in der Vorlage.

@@ -1,7 +1,7 @@
 <p align="right"><a href="README.md">English</a> · <b>Deutsch</b></p>
 
 <p align="center">
-  <img src="assets/kopf-de-3.svg" width="100%" alt="product-skills – Deine KI nickt alles ab. Diese nicht. Skills für Product Owner – in Claude, Gemini und ChatGPT. Deutsch und Englisch.">
+  <img src="assets/kopf-de-4.svg" width="100%" alt="product-skills – Deine KI nickt alles ab. Diese nicht. Skills für Product Owner – in Claude, Gemini und ChatGPT. Deutsch und Englisch.">
 </p>
 
 ## Warum
@@ -11,9 +11,9 @@ Product Owner sind oft allein in ihrer Funktion – und unter Druck von allen Ro
 **Ja-Sager hast du genug.** Die Skills hier nicken nicht ab: Gegenwind, wenn du danebenliegst, Rückenwind, wenn du recht hast – bis deine Entscheidung trägt.
 
 <p align="center">
-  <img src="assets/slider-2/de/slide-01.jpg" width="32%" alt="Du coachst alle. Wer coacht dich?">
-  <img src="assets/slider-2/de/slide-03.jpg" width="32%" alt="Der Product Coach bringt dich in drei Dingen weiter: klarer Kopf, Entwicklung, Standing.">
-  <img src="assets/slider-2/de/slide-07.jpg" width="32%" alt="Gegenwind, wenn du danebenliegst. Rückenwind, wenn du recht hast.">
+  <img src="assets/slider-3/de/slide-01.jpg" width="32%" alt="Du coachst alle. Wer coacht dich?">
+  <img src="assets/slider-3/de/slide-03.jpg" width="32%" alt="Der Product Engineering Coach bringt dich in drei Dingen weiter: klarer Kopf, Entwicklung, Standing.">
+  <img src="assets/slider-3/de/slide-07.jpg" width="32%" alt="Gegenwind, wenn du danebenliegst. Rückenwind, wenn du recht hast.">
 </p>
 <p align="center"><sub>Alle zehn Folien: <a href="https://marieeilers.github.io/bluu/beitraege/product-coach/">im Blog</a> – teilen ausdrücklich erwünscht.</sub></p>
 
@@ -21,19 +21,19 @@ Product Owner sind oft allein in ihrer Funktion – und unter Druck von allen Ro
 
 | Skill | Was er für dich tut | Holen |
 |---|---|---|
-| **[Product Coach](doku/product-coach.md)** | Nickt nichts ab, bis deine Entscheidung trägt – auch an einem ganz normalen Montag. Legt Annahmen frei, merkt, wann du vom Produktmodell in den Projektmodus rutschst, und gibt dir ehrliches, hartes Feedback zu deiner Rolle und deiner Aufgabe. | [ZIP](https://github.com/MarieEilers/product-skills/releases/latest/download/product-coach.zip) · [Kurzfassung für ChatGPT](doku/product-coach-kurzfassung.md) · [Blogbeitrag](https://marieeilers.github.io/bluu/beitraege/product-coach/) |
+| **[Product Engineering Coach](doku/product-coach.md)** | Nickt nichts ab, bis deine Entscheidung trägt – auch an einem ganz normalen Montag. Legt Annahmen frei, merkt, wann du vom Produktmodell in den Projektmodus rutschst, und gibt dir ehrliches, hartes Feedback zu deiner Rolle und deiner Aufgabe. | [ZIP](https://github.com/MarieEilers/product-skills/releases/latest/download/product-coach.zip) · [Kurzfassung für ChatGPT](doku/product-coach-kurzfassung.md) · [Blogbeitrag](https://marieeilers.github.io/bluu/beitraege/product-coach/) |
 
 Weitere Skills kommen dazu. Alle Skills antworten in der Sprache, in der du schreibst – Deutsch, Englisch, Französisch und mehr.
 
 ## So kommt ein Skill in deine KI
 
-<img src="assets/wege-de-3.svg" width="100%" alt="Vier Wege: Claude-App über den Marketplace (empfohlen), Claude-App per ZIP, Gemini mit demselben ZIP, ChatGPT als Projekt mit der Kurzfassung.">
+<img src="assets/wege-de-4.svg" width="100%" alt="Vier Wege: Claude-App über den Marketplace (empfohlen), Claude-App per ZIP, Gemini mit demselben ZIP, ChatGPT als Projekt mit der Kurzfassung.">
 
 ### Claude-App über den Marketplace – empfohlen
 
 Einmal einrichten, danach stehen dir alle Skills dieses Marketplace zur Verfügung – im Chat und in Cowork, in der Desktop-App und auf claude.ai. Geht mit Pro, Max, Team und Enterprise.
 
-<img src="assets/klickpfad-de-3.svg" width="100%" alt="Anpassungen, Plugins, Hinzufügen, Marketplace hinzufügen, Aus einem Repository hinzufügen, MarieEilers/product-skills eintragen, unter Entdecken beim product-coach auf Plus klicken.">
+<img src="assets/klickpfad-de-4.svg" width="100%" alt="Anpassungen, Plugins, Hinzufügen, Marketplace hinzufügen, Aus einem Repository hinzufügen, MarieEilers/product-skills eintragen, unter Entdecken beim product-coach auf Plus klicken.">
 
 1. Öffne **Anpassungen** → **Plugins** → **Hinzufügen** → **Marketplace hinzufügen**.
 2. Wähle **Aus einem Repository hinzufügen** und trag `MarieEilers/product-skills` ein.
