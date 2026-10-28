@@ -3,7 +3,7 @@
 
     python3 werkzeuge/bilder.py
 
-Stil wie der Blog „sudo make it simple“: monochrom, Hairlines, Mono-Labels, ein roter Faden.
+Stil wie der Blog BLUU: monochrom, Hairlines, Mono-Labels, ein Faden in BLUU-Violett.
 GitHub zeigt SVGs als <img>; Web-Fonts laden dort nicht, deshalb System-Schriften.
 Die Chat-Texte sind wörtliche Auszüge einer echten Sitzung mit einem erfundenen Fall.
 """
@@ -13,7 +13,7 @@ from xml.sax.saxutils import escape
 
 ZIEL = Path(__file__).resolve().parent.parent / "assets"
 
-INK, MUTED, LINE, FADEN = "#100F0D", "#7A7A72", "#E4E4DE", "#E5342B"
+INK, MUTED, LINE, FADEN = "#100F0D", "#7A7A72", "#E4E4DE", "#4B3BFF"
 SANS = "-apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif"
 SERIF = "Georgia, 'Iowan Old Style', 'Times New Roman', serif"
 MONO = "ui-monospace, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace"
@@ -27,7 +27,7 @@ def schreibe(name, inhalt):
     print("geschrieben:", ZIEL / name)
 
 
-BV = "2"  # Bildversion: bei Änderungen hochzählen, sonst zeigt GitHub alte Bilder aus dem Cache
+BV = "3"  # Bildversion: bei Änderungen hochzählen, sonst zeigt GitHub alte Bilder aus dem Cache
 
 T = {
     "de": {
@@ -119,7 +119,7 @@ def kopf(t):
   <text x="46" y="292" font-family="{SANS}" font-size="70" font-weight="700" letter-spacing="-2" fill="{INK}">{escape(t['kopf_z2'])}</text>
   <path class="faden" pathLength="1" d="M48,312 C{48+(f-48)*.2:.0f},300 {48+(f-48)*.45:.0f},318 {48+(f-48)*.7:.0f},305 C{48+(f-48)*.8:.0f},300 {48+(f-48)*.92:.0f},310 {f},302"/>
   <text x="48" y="362" font-family="{SANS}" font-size="25" fill="{INK}">{escape(t['kopf_lede'])}</text>
-  <text x="{w-48}" y="398" class="mono" font-size="16" fill="{INK}" text-anchor="end">$ sudo make it simple<tspan class="cur">▍</tspan></text>
+  <text x="{w-48}" y="398" class="mono" font-size="16" fill="{INK}" text-anchor="end">BLUU · Build less. Understand users.<tspan class="cur">▍</tspan></text>
 </svg>
 '''
 # ------------------------------------------------------------------ Klickpfad

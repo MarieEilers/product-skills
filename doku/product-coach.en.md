@@ -10,7 +10,7 @@ Product owners are often alone in their role and under pressure from every role 
 
 ## What it looks like
 
-<img src="../assets/product-coach-chat-en-2.svg" width="100%" alt="Chat with the Product Coach: management went straight to the team, the customer priority is on hold. The coach asks for the problem behind the export, holds up a mirror and gives a plan for Friday.">
+<img src="../assets/product-coach-chat-en-3.svg" width="100%" alt="Chat with the Product Coach: management went straight to the team, the customer priority is on hold. The coach asks for the problem behind the export, holds up a mirror and gives a plan for Friday.">
 
 Real session, fictional case, shortened, translated from German. The coach answers in the language you write in.
 
@@ -46,4 +46,4 @@ The skill and its templates are written in German; the coach translates the temp
 
 Marty Cagan: *Inspired*, *Empowered* (with Chris Jones), *Transformed* · Jeff Patton: *User Story Mapping* · Mary Parker Follett: *Dynamic Administration* · Teresa Torres: *Continuous Discovery Habits* · Matthew Skelton, Manuel Pais: *Team Topologies*
 
-Background (German): [404: Sparringspartner not found](https://marieeilers.github.io/sudo-make-it-simple/beitraege/product-coach/)
+Background (German): [Product Coach: ein Claude-Skill, der widerspricht statt abzunicken](https://marieeilers.github.io/bluu/beitraege/product-coach/)

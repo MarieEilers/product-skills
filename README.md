@@ -1,7 +1,7 @@
 <p align="right"><b>English</b> · <a href="README.de.md">Deutsch</a></p>
 
 <p align="center">
-  <img src="assets/kopf-en-2.svg" width="100%" alt="product-skills – Your AI nods along. These skills don't. Skills for product owners – in Claude, Gemini and ChatGPT.">
+  <img src="assets/kopf-en-3.svg" width="100%" alt="product-skills – Your AI nods along. These skills don't. Skills for product owners – in Claude, Gemini and ChatGPT.">
 </p>
 
 ## Why
@@ -15,7 +15,7 @@ Product owners are often alone in their role – and under pressure from every r
   <img src="assets/slider-2/en/slide-03.jpg" width="32%" alt="The Product Coach moves you forward in three ways: a clear head, growth, standing.">
   <img src="assets/slider-2/en/slide-07.jpg" width="32%" alt="Headwind when you're off. Tailwind when you're right.">
 </p>
-<p align="center"><sub>All ten slides: <a href="https://marieeilers.github.io/sudo-make-it-simple/en/beitraege/product-coach/">on the blog</a> – feel free to share them.</sub></p>
+<p align="center"><sub>All ten slides: <a href="https://marieeilers.github.io/bluu/en/beitraege/product-coach/">on the blog</a> – feel free to share them.</sub></p>
 
 ## The skills
 
@@ -27,13 +27,13 @@ More skills are on the way. All skills answer in the language you write in – E
 
 ## How to get a skill into your AI
 
-<img src="assets/wege-en-2.svg" width="100%" alt="Four ways: Claude app via the marketplace (recommended), Claude app via ZIP, Gemini with the same ZIP, ChatGPT as a project with the short version.">
+<img src="assets/wege-en-3.svg" width="100%" alt="Four ways: Claude app via the marketplace (recommended), Claude app via ZIP, Gemini with the same ZIP, ChatGPT as a project with the short version.">
 
 ### Claude app via the marketplace – recommended
 
 Set it up once and every skill in this marketplace is available to you – in chat and in Cowork, in the desktop app and on claude.ai. Works with Pro, Max, Team and Enterprise.
 
-<img src="assets/klickpfad-en-2.svg" width="100%" alt="Customize, Plugins, Add, Add marketplace, Add from a repository, enter MarieEilers/product-skills, then in Discover click plus on product-coach.">
+<img src="assets/klickpfad-en-3.svg" width="100%" alt="Customize, Plugins, Add, Add marketplace, Add from a repository, enter MarieEilers/product-skills, then in Discover click plus on product-coach.">
 
 1. Open **Customize** → **Plugins** → **Add** → **Add marketplace**.
 2. Choose **Add from a repository** and enter `MarieEilers/product-skills`.
@@ -79,5 +79,5 @@ A skill consists of instructions and templates. No server of its own, no data co
 
 ---
 
-<p align="center"><code>$ sudo make it simple</code></p>
-<p align="center"><a href="LICENSE">MIT</a> · Marie Christin Eilers · <a href="https://marieeilers.github.io/sudo-make-it-simple/">Blog</a> · <a href="https://www.linkedin.com/in/marieeilers/">LinkedIn</a> · <a href="https://github.com/MarieEilers">GitHub</a></p>
+<p align="center"><code>BLUU · Build less. Understand users.</code></p>
+<p align="center"><a href="LICENSE">MIT</a> · Marie Christin Eilers · <a href="https://marieeilers.github.io/bluu/">Blog</a> · <a href="https://www.linkedin.com/in/marieeilers/">LinkedIn</a> · <a href="https://github.com/MarieEilers">GitHub</a></p>
